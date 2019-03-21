@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News and Updates on Archery in Colorado</title>
+    <link>https://archeryincolorado.org/news/</link>
+    <description>Recent content in News and Updates on Archery in Colorado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://archeryincolorado.org/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test Article</title>
+      <link>https://archeryincolorado.org/news/test-article/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://archeryincolorado.org/news/test-article/</guid>
+      <description>&lt;p&gt;This is a test article.  Getting stuff going and making sure that it all works well.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse consectetur in tortor et cursus. Proin quis diam sed metus porta condimentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis finibus semper quam et dapibus. Suspendisse consequat risus at mollis commodo. Cras vitae odio dui. Morbi rutrum vel sem eget laoreet. Praesent lacinia egestas sodales. Duis ut bibendum magna.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

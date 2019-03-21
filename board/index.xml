@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Board of Directors on Archery in Colorado</title>
+    <link>https://archeryincolorado.org/board/</link>
+    <description>Recent content in Board of Directors on Archery in Colorado</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://archeryincolorado.org/board/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>President</title>
+      <link>https://archeryincolorado.org/board/paulwilliams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://archeryincolorado.org/board/paulwilliams/</guid>
+      <description>Paul is the co-owner of High Altitude Archery, a USA Archery Level 3-NTS coach, and a consultant for Google. Somehow, he found the time and energy to build this organization to benefit the archery community because he feels like archers deserve better, bigger, and more prestigeous events in Colorado.</description>
+    </item>
+    
+    <item>
+      <title>Vice President</title>
+      <link>https://archeryincolorado.org/board/mikepritchard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://archeryincolorado.org/board/mikepritchard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Treasurer &amp; Secretary</title>
+      <link>https://archeryincolorado.org/board/frankbuck/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://archeryincolorado.org/board/frankbuck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Board Member</title>
+      <link>https://archeryincolorado.org/board/brendaflores/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://archeryincolorado.org/board/brendaflores/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
