@@ -15,14 +15,30 @@
   </url>
   
   <url>
-    <loc>https://archeryincolorado.org/news/test-article/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <loc>https://archeryincolorado.org/competitions/2019-colorado-state-championship/</loc>
+    <lastmod>2019-08-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://archeryincolorado.org/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-08-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://archeryincolorado.org/competitions/</loc>
+    <lastmod>2019-08-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://archeryincolorado.org/news/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://archeryincolorado.org/news/test-article/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -39,11 +55,6 @@
   
   <url>
     <loc>https://archeryincolorado.org/mission/</loc>
-  </url>
-  
-  <url>
-    <loc>https://archeryincolorado.org/news/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
