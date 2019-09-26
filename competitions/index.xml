@@ -6,10 +6,20 @@
     <description>Recent content in Competitions on Archery in Colorado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://archeryincolorado.org/competitions/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019 USA Archery Colorado Field State Championship</title>
+      <link>https://archeryincolorado.org/competitions/2019-usa-archery-colorado-state-field-championship/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://archeryincolorado.org/competitions/2019-usa-archery-colorado-state-field-championship/</guid>
+      <description>Congratulations to everyone for joining the first ever USA Archery Colorado Field Archery State Championship!
+Event results are below. Thank you for joining us!</description>
+    </item>
     
     <item>
       <title>2019 USA Archery Colorado State Championship</title>

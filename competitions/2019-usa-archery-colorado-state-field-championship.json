@@ -1,0 +1,574 @@
+[
+   {
+      "division": "Longbow",
+      "age": "Senior",
+      "gender": "Male",
+      "result": [
+         {
+            "name": "Joshua Crusch",
+            "unmarked": 114,
+            "unmarked6": 1,
+            "marked": 102,
+            "marked6": 2,
+            "total": 216,
+            "total6": 3
+         },
+         {
+            "name": "Michael Schulze",
+            "unmarked": 100,
+            "unmarked6": 1,
+            "marked": 68,
+            "marked6": 1,
+            "total": 168,
+            "total6": 2
+         }
+      ]
+   },
+   {
+      "division": "Barebow",
+      "age": "Cub",
+      "gender": "Female",
+      "result": [
+         {
+            "name": "MeiLena Smulders",
+            "unmarked": 77,
+            "unmarked6": 1,
+            "marked": 59,
+            "marked6": 2,
+            "total": 136,
+            "total6": 3
+         },
+         {
+            "name": "Milla Shanklin",
+            "unmarked": 66,
+            "unmarked6": 1,
+            "marked": 43,
+            "marked6": 0,
+            "total": 109,
+            "total6": 1
+         },
+         {
+            "name": "Shyanne Joi Augenstein",
+            "unmarked": 67,
+            "unmarked6": 0,
+            "marked": 28,
+            "marked6": 0,
+            "total": 95,
+            "total6": 0
+         }
+      ]
+   },
+   {
+      "division": "Barebow",
+      "age": "Cub",
+      "gender": "Male",
+      "result": [
+         {
+            "name": "Caelan Shanklin",
+            "unmarked": 75,
+            "unmarked6": 1,
+            "marked": 59,
+            "marked6": 0,
+            "total": 134,
+            "total6": 1
+         }
+      ]
+   },
+   {
+      "division": "Barebow",
+      "age": "Cub",
+      "gender": "Female",
+      "result": [
+         {
+            "name": "Araceli Gonzalez",
+            "unmarked": 84,
+            "unmarked6": 0,
+            "marked": 54,
+            "marked6": 1,
+            "total": 138,
+            "total6": 1
+         }
+      ]
+   },
+   {
+      "division": "Barebow",
+      "age": "Junior",
+      "gender": "Male",
+      "result": [
+         {
+            "name": "Nemo Caplan",
+            "unmarked": 44,
+            "unmarked6": 1,
+            "marked": 24,
+            "marked6": 0,
+            "total": 68,
+            "total6": 1
+         }
+      ]
+   },
+   {
+      "division": "Barebow",
+      "age": "Senior",
+      "gender": "Female",
+      "result": [
+         {
+            "name": "Mary Holzer",
+            "unmarked": 101,
+            "unmarked6": 1,
+            "marked": 97,
+            "marked6": 1,
+            "total": 198,
+            "total6": 2
+         },
+         {
+            "name": "Kay Earls",
+            "unmarked": 72,
+            "unmarked6": 0,
+            "marked": 106,
+            "marked6": 1,
+            "total": 178,
+            "total6": 1
+         },
+         {
+            "name": "Melissa McAvoy",
+            "unmarked": 82,
+            "unmarked6": 0,
+            "marked": 90,
+            "marked6": 1,
+            "total": 172,
+            "total6": 1
+         },
+         {
+            "name": "Evangeline Christel",
+            "unmarked": 85,
+            "unmarked6": 0,
+            "marked": 78,
+            "marked6": 1,
+            "total": 163,
+            "total6": 1
+         },
+         {
+            "name": "Wendi Adams",
+            "unmarked": 52,
+            "unmarked6": 2,
+            "marked": 74,
+            "marked6": 4,
+            "total": 126,
+            "total6": 6
+         }
+      ]
+   },
+   {
+      "division": "Barebow",
+      "age": "Senior",
+      "gender": "Male",
+      "result": [
+         {
+            "name": "Thomas Adjutant",
+            "unmarked": 140,
+            "unmarked6": 2,
+            "marked": 137,
+            "marked6": 4,
+            "total": 277,
+            "total6": 6
+         },
+         {
+            "name": "Mike McQueary",
+            "unmarked": 111,
+            "unmarked6": 2,
+            "marked": 95,
+            "marked6": 1,
+            "total": 206,
+            "total6": 3
+         },
+         {
+            "name": "Stephen Beal",
+            "unmarked": 72,
+            "unmarked6": 0,
+            "marked": 82,
+            "marked6": 0,
+            "total": 154,
+            "total6": 0
+         },
+         {
+            "name": "Luther Augenstein III",
+            "unmarked": 65,
+            "unmarked6": 0,
+            "marked": 64,
+            "marked6": 1,
+            "total": 129,
+            "total6": 1
+         },
+         {
+            "name": "Robert McGovern",
+            "unmarked": 45,
+            "unmarked6": 0,
+            "marked": 78,
+            "marked6": 4,
+            "total": 123,
+            "total6": 4
+         }
+      ]
+   },
+   {
+      "division": "Barebow",
+      "age": "Master",
+      "gender": "Female",
+      "result": [
+         {
+            "name": "Ruth Delzell",
+            "unmarked": 109,
+            "unmarked6": 1,
+            "marked": 97,
+            "marked6": 1,
+            "total": 206,
+            "total6": 2
+         }
+      ]
+   },
+   {
+      "division": "Barebow",
+      "age": "Master",
+      "gender": "Male",
+      "result": [
+         {
+            "name": "Ben Rogers",
+            "unmarked": 153,
+            "unmarked6": 5,
+            "marked": 147,
+            "marked6": 6,
+            "total": 300,
+            "total6": 11
+         },
+         {
+            "name": "William Knippling",
+            "unmarked": 108,
+            "unmarked6": 1,
+            "marked": 114,
+            "marked6": 2,
+            "total": 222,
+            "total6": 3
+         },
+         {
+            "name": "Daniel Weiss",
+            "unmarked": 107,
+            "unmarked6": 2,
+            "marked": 108,
+            "marked6": 1,
+            "total": 215,
+            "total6": 3
+         }
+      ]
+   },
+   {
+      "division": "Recurve",
+      "age": "Cadet",
+      "gender": "Female",
+      "result": [
+         {
+            "name": "Marya Remines",
+            "unmarked": 98,
+            "unmarked6": 0,
+            "marked": 92,
+            "marked6": 1,
+            "total": 190,
+            "total6": 1
+         }
+      ]
+   },
+   {
+      "division": "Recurve",
+      "age": "Junior",
+      "gender": "Male",
+      "result": [
+         {
+            "name": "Kendric Hubbard",
+            "unmarked": 92,
+            "unmarked6": 0,
+            "marked": 102,
+            "marked6": 1,
+            "total": 194,
+            "total6": 1
+         },
+         {
+            "name": "Levi Bishop",
+            "unmarked": 92,
+            "unmarked6": 1,
+            "marked": 93,
+            "marked6": 2,
+            "total": 185,
+            "total6": 3
+         }
+      ]
+   },
+   {
+      "division": "Recurve",
+      "age": "Senior",
+      "gender": "Female",
+      "result": [
+         {
+            "name": "Mackenzie Kieborz",
+            "unmarked": 129,
+            "unmarked6": 7,
+            "marked": 144,
+            "marked6": 4,
+            "total": 273,
+            "total6": 11
+         },
+         {
+            "name": "Mackenzie Adams",
+            "unmarked": 90,
+            "unmarked6": 1,
+            "marked": 72,
+            "marked6": 1,
+            "total": 162,
+            "total6": 2
+         }
+      ]
+   },
+   {
+      "division": "Recurve",
+      "age": "Senior",
+      "gender": "Male",
+      "result": [
+         {
+            "name": "Bryan Lund",
+            "unmarked": 171,
+            "unmarked6": 12,
+            "marked": 145,
+            "marked6": 4,
+            "total": 316,
+            "total6": 16
+         },
+         {
+            "name": "John Holst",
+            "unmarked": 149,
+            "unmarked6": 3,
+            "marked": 135,
+            "marked6": 5,
+            "total": 284,
+            "total6": 8
+         },
+         {
+            "name": "Brad Fiala",
+            "unmarked": 132,
+            "unmarked6": 5,
+            "marked": 133,
+            "marked6": 4,
+            "total": 265,
+            "total6": 9
+         }
+      ]
+   },
+   {
+      "division": "Recurve",
+      "age": "Master",
+      "gender": "Male",
+      "result": [
+         {
+            "name": "Stuart Aldridge",
+            "unmarked": 87,
+            "unmarked6": 3,
+            "marked": 31,
+            "marked6": 0,
+            "total": 118,
+            "total6": 3
+         }
+      ]
+   },
+   {
+      "division": "Compound",
+      "age": "Cub",
+      "gender": "Male",
+      "result": [
+         {
+            "name": "Emden Elder",
+            "unmarked": 138,
+            "unmarked6": 2,
+            "marked": 124,
+            "marked6": 3,
+            "total": 262,
+            "total6": 5
+         }
+      ]
+   },
+   {
+      "division": "Compound",
+      "age": "Cadet",
+      "gender": "Female",
+      "result": [
+         {
+            "name": "Sara Barnes",
+            "unmarked": 143,
+            "unmarked6": 4,
+            "marked": 153,
+            "marked6": 4,
+            "total": 296,
+            "total6": 8
+         }
+      ]
+   },
+   {
+      "division": "Compound",
+      "age": "Cadet",
+      "gender": "Male",
+      "result": [
+         {
+            "name": "Levi Jones",
+            "unmarked": 182,
+            "unmarked6": 13,
+            "marked": 174,
+            "marked6": 11,
+            "total": 356,
+            "total6": 24
+         },
+         {
+            "name": "Evan Thibodeau",
+            "unmarked": 152,
+            "unmarked6": 5,
+            "marked": 156,
+            "marked6": 4,
+            "total": 308,
+            "total6": 9
+         }
+      ]
+   },
+   {
+      "division": "Compound",
+      "age": "Senior",
+      "gender": "Female",
+      "result": [
+         {
+            "name": "Tamara Fontenot",
+            "unmarked": 178,
+            "unmarked6": 15,
+            "marked": 179,
+            "marked6": 11,
+            "total": 357,
+            "total6": 26
+         }
+      ]
+   },
+   {
+      "division": "Compound",
+      "age": "Senior",
+      "gender": "Male",
+      "result": [
+         {
+            "name": "Jason Prock",
+            "unmarked": 166,
+            "unmarked6": 8,
+            "marked": 180,
+            "marked6": 13,
+            "total": 346,
+            "total6": 21
+         },
+         {
+            "name": "Chad Elder",
+            "unmarked": 164,
+            "unmarked6": 8,
+            "marked": 174,
+            "marked6": 9,
+            "total": 338,
+            "total6": 17
+         },
+         {
+            "name": "Austin Barnes",
+            "unmarked": 157,
+            "unmarked6": 6,
+            "marked": 170,
+            "marked6": 10,
+            "total": 327,
+            "total6": 16
+         },
+         {
+            "name": "Blake Crowe",
+            "unmarked": 146,
+            "unmarked6": 2,
+            "marked": 144,
+            "marked6": 5,
+            "total": 290,
+            "total6": 7
+         },
+         {
+            "name": "Samuel Westfall",
+            "unmarked": 149,
+            "unmarked6": 4,
+            "marked": 131,
+            "marked6": 2,
+            "total": 280,
+            "total6": 6
+         },
+         {
+            "name": "JB Smith",
+            "unmarked": 94,
+            "unmarked6": 1,
+            "marked": 101,
+            "marked6": 0,
+            "total": 195,
+            "total6": 1
+         }
+      ]
+   },
+   {
+      "division": "Compound",
+      "age": "Master",
+      "gender": "Male",
+      "result": [
+         {
+            "name": "Scott Wilson",
+            "unmarked": 191,
+            "unmarked6": 17,
+            "marked": 184,
+            "marked6": 14,
+            "total": 375,
+            "total6": 31
+         },
+         {
+            "name": "Michael Pettit",
+            "unmarked": 185,
+            "unmarked6": 15,
+            "marked": 188,
+            "marked6": 18,
+            "total": 373,
+            "total6": 33
+         },
+         {
+            "name": "Roger Wheaton",
+            "unmarked": 169,
+            "unmarked6": 6,
+            "marked": 168,
+            "marked6": 7,
+            "total": 337,
+            "total6": 13
+         },
+         {
+            "name": "Michael Poplawski",
+            "unmarked": 172,
+            "unmarked6": 9,
+            "marked": 150,
+            "marked6": 4,
+            "total": 322,
+            "total6": 13
+         },
+         {
+            "name": "Bob Shipman",
+            "unmarked": 162,
+            "unmarked6": 9,
+            "marked": 157,
+            "marked6": 6,
+            "total": 319,
+            "total6": 15
+         },
+         {
+            "name": "Johan van Dongen",
+            "unmarked": 176,
+            "unmarked6": 8,
+            "marked": 56,
+            "marked6": 4,
+            "total": 232,
+            "total6": 12
+         }
+      ]
+   }
+]
